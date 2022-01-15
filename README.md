@@ -3,14 +3,14 @@
 Example
 
 
-Sample input 1
+Sample input  -->1
 1423
 
-Sample output 1
+Sample output--> 1
 2+3+23+1423=1451
 
-Sample Input 2
+Sample Input--> 2
 123
 
-Sample output 2
+Sample output--> 2
 2+3+23=28
